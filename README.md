@@ -21,7 +21,7 @@ Clone the repository, run `npm install` to install the dependencies, and `npm st
 
 ## Usage
 
-You can access the application deployed live on Heroku here:
+You can access the application deployed live on Heroku here: https://hrm-text-editor.herokuapp.com/
 
 ## License
 
